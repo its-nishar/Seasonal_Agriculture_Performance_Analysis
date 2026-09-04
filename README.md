@@ -92,7 +92,7 @@ Evidence-Based Recommendations
 - Matplotlib
 - Seaborn
 - SciPy
-- Google Colab / Jupyter Notebook
+- Google Colab
 - GitHub
 
 ## 📈 Analysis Performed
