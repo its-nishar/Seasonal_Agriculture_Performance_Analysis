@@ -10,6 +10,10 @@ Agricultural outcomes are influenced by environmental conditions, farming practi
 
 The project transforms raw agricultural records into meaningful patterns, relationships, comparisons, and evidence-based insights that can support better agricultural planning and decision-making.
 
+## 📊 Project Presentation
+
+[👉 View Presentation](./NISHA%20R%20-%20STU6a6b5fa76dafc1785421735.pptx)
+
 ## 🎯 Objectives
 
 - Analyze agricultural performance across different seasons
