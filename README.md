@@ -68,7 +68,7 @@ containing information about:
 ## 🔄 Project Workflow
 
 Data Collection  
-     ↓  
+     ↓ 
 Data Understanding  
      ↓  
 Data Cleaning & Preparation  
