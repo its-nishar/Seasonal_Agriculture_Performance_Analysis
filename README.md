@@ -103,7 +103,7 @@ Evidence-Based Recommendations
 
 ---
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 The project uses Python-based data analytics, visualization, and statistical tools for processing and analyzing the agricultural dataset.
 
@@ -118,7 +118,7 @@ GitHub – Used for project documentation and repository management.
 
 ---
 
-📈 Analysis Performed
+##📈 Analysis Performed
 
 The project performs a series of analytical techniques to understand agricultural performance from seasonal, environmental, resource, economic, crop, regional, and risk perspectives.
 
@@ -196,7 +196,7 @@ The analysis identifies notable seasonal, environmental, resource, economic, cro
 
 ---
 
-📐 Statistical Analysis
+##📐 Statistical Analysis
 One-Way ANOVA
 
 One-way ANOVA is used to statistically evaluate whether the average agricultural yield differs significantly across seasons.
@@ -205,7 +205,7 @@ The statistical test provides quantitative support for seasonal yield comparison
 
 ---
 
-🔎 Unusual and Significant Observations
+##🔎 Unusual and Significant Observations
 
 The analysis identifies several important patterns and variations that can support better agricultural planning.
 
