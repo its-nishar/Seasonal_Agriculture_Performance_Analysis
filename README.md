@@ -76,7 +76,7 @@ The dataset contains information about:
 
 The project follows a structured Data Analytics workflow to transform raw agricultural data into meaningful insights and evidence-based recommendations.
 
-```text
+
 Data Collection
       ↓
 Data Understanding
