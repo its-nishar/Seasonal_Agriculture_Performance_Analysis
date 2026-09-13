@@ -363,6 +363,6 @@ Possible future improvements include:
 
 ## 👩‍💻 Author
 
-**Nisha R**
-B.Tech Artificial Intelligence and Data Science
+**Nisha R**  
+B.Tech Artificial Intelligence and Data Science  
 Ramco Institute of Technology
